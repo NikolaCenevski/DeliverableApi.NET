@@ -32,3 +32,20 @@ E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\obj\Debug\n
 E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\obj\Debug\net6.0\refint\Services.dll
 E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\obj\Debug\net6.0\Services.pdb
 E:\DRIVEABLE\RepoExercise-20220826T080527Z-001\RepoExercise\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\bin\Debug\net6.0\Services.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\bin\Debug\net6.0\DAL.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\bin\Debug\net6.0\Repositories.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\bin\Debug\net6.0\Repositories.pdb
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\bin\Debug\net6.0\DAL.pdb
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\nklnk\Desktop\deliverable dotnet\DeliverableApi.NET\Services\obj\Debug\net6.0\ref\Services.dll

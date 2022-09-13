@@ -1933,11 +1933,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DRIVEABLE\\RepoExercise-20220826T080527Z-001\\RepoExercise\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\nklnk\\Desktop\\deliverable dotnet\\DeliverableApi.NET\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "E:\\DRIVEABLE\\RepoExercise-20220826T080527Z-001\\RepoExercise\\Services\\Services.csproj",
+      "projectPath": "C:\\Users\\nklnk\\Desktop\\deliverable dotnet\\DeliverableApi.NET\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\nklnk\\.nuget\\packages\\",
-      "outputPath": "E:\\DRIVEABLE\\RepoExercise-20220826T080527Z-001\\RepoExercise\\Services\\obj\\",
+      "outputPath": "C:\\Users\\nklnk\\Desktop\\deliverable dotnet\\DeliverableApi.NET\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nklnk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1954,8 +1954,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\DRIVEABLE\\RepoExercise-20220826T080527Z-001\\RepoExercise\\Repositories\\Repositories.csproj": {
-              "projectPath": "E:\\DRIVEABLE\\RepoExercise-20220826T080527Z-001\\RepoExercise\\Repositories\\Repositories.csproj"
+            "C:\\Users\\nklnk\\Desktop\\deliverable dotnet\\DeliverableApi.NET\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\nklnk\\Desktop\\deliverable dotnet\\DeliverableApi.NET\\Repositories\\Repositories.csproj"
             }
           }
         }

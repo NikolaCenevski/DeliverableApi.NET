@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cnivwyMHCrtVwv9bqVDEuNdJG4OIs47LTY31H/GweTvs/o9mLKjkpnn0haM/Y5SzDBJxWeFhB8ewrZdBqpcVZQ==",
+  "dgSpecHash": "NREAL05UEMMUbY+sY+RD3HL+IBtAb4L67z9Pl5392Gua1eMaIflc9VydvkcWcj87Td0SDPlplvs9NvskSHmJeQ==",
   "success": true,
-  "projectFilePath": "E:\\DRIVEABLE\\RepoExercise-20220826T080527Z-001\\RepoExercise\\RepoExercise\\RepoExercise.csproj",
+  "projectFilePath": "C:\\Users\\nklnk\\Desktop\\deliverable dotnet\\DeliverableApi.NET\\RepoExercise\\RepoExercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nklnk\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\nklnk\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -1934,11 +1934,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DRIVEABLE\\RepoExercise-20220826T080527Z-001\\RepoExercise\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\nklnk\\Desktop\\deliverable dotnet\\DeliverableApi.NET\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "E:\\DRIVEABLE\\RepoExercise-20220826T080527Z-001\\RepoExercise\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\nklnk\\Desktop\\deliverable dotnet\\DeliverableApi.NET\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\nklnk\\.nuget\\packages\\",
-      "outputPath": "E:\\DRIVEABLE\\RepoExercise-20220826T080527Z-001\\RepoExercise\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\nklnk\\Desktop\\deliverable dotnet\\DeliverableApi.NET\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nklnk\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -54,20 +54,15 @@ namespace Services.Services
                 Title = PostRequest.title
             };
             await _unitOfWork.ipostRepository.Add(post);
-            foreach (IFormFile img in PostRequest.images)
+            foreach (string img in PostRequest.images)
             {
-
-                using (var ms = new MemoryStream())
-                {
-                    img.CopyTo(ms);
-                    byte[] arr = ms.ToArray();
+                    byte[] arr = Encoding.ASCII.GetBytes(img);
                     Images images = new Images
                     {
                         Image = arr,
                         post = post
                     };
                     await _unitOfWork.iimagesRepository.Add(images);
-                }
 
             }
             foreach(string cartype in PostRequest.carType)

@@ -1858,11 +1858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DRIVEABLE\\RepoExercise-20220826T080527Z-001\\RepoExercise\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\nklnk\\Desktop\\deliverable dotnet\\DeliverableApi.NET\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "E:\\DRIVEABLE\\RepoExercise-20220826T080527Z-001\\RepoExercise\\Repositories\\Repositories.csproj",
+      "projectPath": "C:\\Users\\nklnk\\Desktop\\deliverable dotnet\\DeliverableApi.NET\\Repositories\\Repositories.csproj",
       "packagesPath": "C:\\Users\\nklnk\\.nuget\\packages\\",
-      "outputPath": "E:\\DRIVEABLE\\RepoExercise-20220826T080527Z-001\\RepoExercise\\Repositories\\obj\\",
+      "outputPath": "C:\\Users\\nklnk\\Desktop\\deliverable dotnet\\DeliverableApi.NET\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nklnk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1879,8 +1879,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\DRIVEABLE\\RepoExercise-20220826T080527Z-001\\RepoExercise\\DAL\\DAL.csproj": {
-              "projectPath": "E:\\DRIVEABLE\\RepoExercise-20220826T080527Z-001\\RepoExercise\\DAL\\DAL.csproj"
+            "C:\\Users\\nklnk\\Desktop\\deliverable dotnet\\DeliverableApi.NET\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\nklnk\\Desktop\\deliverable dotnet\\DeliverableApi.NET\\DAL\\DAL.csproj"
             }
           }
         }

@@ -11,7 +11,7 @@ namespace DAL.Dto.Request
     {
         public string title { get; set; }
         public string description { get; set; }
-        public List<IFormFile> images { get; set; }
+        public List<string> images { get; set; }
         public int horsepower { get; set; }
         public int mileage { get; set; }
         public int manufacturingYear { get; set; }
